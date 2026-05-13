@@ -1,7 +1,7 @@
-streamlit #runs web app
-numpy #handles model input and output
-opencv-python #used for model processing, such as resizing
-pillow #opens images uploaded by the users
-tensorflow-cpu #cnn model
-pandas #history and analytics table
-plotly #confidence charts and graph
+streamlit
+numpy
+opencv-python-headless
+pillow
+tensorflow
+pandas
+plotly
